@@ -58,4 +58,4 @@ chmod 755 /system/bin/fastboot
 3. Type: ```su```, connect another Device using a OTG Cable and use ADB and Fastboot Commands
 
 ## Screenhot:
-<img src="https://i.ibb.co/BzY36ty/Termux-adb.jpg" width="300"></a>
+<img src="https://github.com/K3V1991/Install-ADB-and-Fastboot-on-Android-Devices/blob/main/Termux-adb.jpg" width="300"></a>
