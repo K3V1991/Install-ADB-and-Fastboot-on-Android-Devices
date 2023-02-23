@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/vdBBw51/Command.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/Install-ADB-and-Fastboot-on-Android-Devices/blob/main/Command.png" width="200"></a>
 <h1 align="center"><b>Learn how you can execute ADB and Fastboot Commands on Android Phone and Tablet Devices</b></h1>
 <br />
 
