@@ -1,6 +1,13 @@
 <p align="center"><img src="https://github.com/K3V1991/Install-ADB-and-Fastboot-on-Android-Devices/blob/main/Command.png" width="200"></a>
 <h1 align="center"><b>Learn how you can execute ADB and Fastboot Commands on Android Phone and Tablet Devices</b></h1>
 <br />
+<p align="center">
+<a href="https://ko-fi.com/k3v1991" alt="Ko-fi"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"> &emsp;
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HW8B98TVDLKWA" alt="PayPal"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"> &emsp;
+<a href="https://github.com/K3V1991/Donate-Crypto/blob/main/README.md" alt="Crypto"><img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
+</p>
+<hr />
+<br />
 
 ## NFO:
 ADB and Fastboot have become essential Tools for every Developer and advanced Android User nowadays. 
